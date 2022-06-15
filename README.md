@@ -1,7 +1,5 @@
 # Test Git Repo
 
-Different content now!
+Hello world
 
-Something else!
-
-abcdefghijk
+I love git!
